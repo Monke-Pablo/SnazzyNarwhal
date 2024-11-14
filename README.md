@@ -1,3 +1,3 @@
 # SnazzyNarwhal
 
-## Here lies thr Secrets Untold!
+## Here lies the Secrets Untold!
